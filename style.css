@@ -30,6 +30,10 @@ header h1 {
     text-align: left;
 }
 
+h6 {
+    display: none;
+}
+
 #navBar {
     display: flex;
     justify-content:center;
